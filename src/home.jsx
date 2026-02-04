@@ -320,7 +320,7 @@ navigate(`/chart-${selectedYear}/${gameSlug}-satta-king-result`);
 
       <BottomAds />
 
-      <div
+      {/* <div
         style={{
           boxSizing: "border-box",
           position: "relative",
@@ -358,7 +358,7 @@ navigate(`/chart-${selectedYear}/${gameSlug}-satta-king-result`);
             </h2>
           </div>
         </div>
-      </div>
+      </div>*/}
 
       <section className="octoberresultchart">
         <div className="container">
