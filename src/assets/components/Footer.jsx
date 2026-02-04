@@ -47,7 +47,7 @@ const Footer = () => {
     </div>
   </section>
 
-        <div class="support-icon"><a href="javascript:location.reload();" onclick="window.onbeforeunload = function() { window.scrollTo(0, 0); }"><img src="images/support-icon1.png" alt="support icon" /></a></div>
+        <div class="support-icon"><a href="https://wa.me/8572063223"><img src="images/support-icon1.png" alt="support icon" /></a></div>
 </>
 
     </div>
