@@ -448,8 +448,7 @@ navigate(`/chart-${selectedYear}/${gameSlug}-satta-king-result`);
 
                 </p>
                 <h2>What is Satta King?</h2>
-                <h2>Why Choose AngelX for USDT-to-INR Exchanges?
-</h2>
+                
                 <p>
                   Satta King is an online game, where you can also stand a
                   chance to win with the help of betting. It is a kind of
@@ -457,7 +456,8 @@ navigate(`/chart-${selectedYear}/${gameSlug}-satta-king-result`);
                   numbers at predetermined intervals. The word <b>“Satta”</b>{" "}
                   usually means betting or gambling and <b>“King”</b> is the
                   term which refers to the person who gets triumph in a match.
-                  In the world of AngelX cryptocurrency exchange, speed and reliability matter most. AngelX stands out as the top cryptocurrency exchange for Indians, bridging the gap between stable coins like USDT and everyday INR. No more waiting days for bank transfers or dealing with shady platforms. With AngelX, you get:
+					
+                  
 
                 </p>
 
