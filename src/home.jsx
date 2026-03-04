@@ -431,7 +431,7 @@ navigate(`/chart-${selectedYear}/${gameSlug}-satta-king-result`);
                 <h1>
                   The Ultimate Guide to Satta King: Gambling Culture Nurtured In
                   India and Its Impact on Society
-                  Welcome to AngelX → Your USDT-to-INR Exchange Needs, One App! 
+                  
 
                 </h1>
               </div>
@@ -444,9 +444,7 @@ navigate(`/chart-${selectedYear}/${gameSlug}-satta-king-result`);
                   Satta King game, its history, gameplay style, leading markets
                   and what players need to know in order to play it safely and
                   responsibly.
-                  Tired of complicated crypto exchanges with endless KYC hurdles and low rates? AngelX is here to simplify your USDT-to-INR conversions. As a trusted Singapore-based cryptocurrency exchange platform founded in 2021, AngelX lets you sell USDT for INR seamlessly through —no fuss, no verification, just fast payouts. Our app delivers top USDT rates that beat the market.</p>
-
-<p>Download the AngelX Apk today and experience the easiest crypto exchange for Indians. Trusted by thousands since 2021, AngelX is your go-to for reliable, no-KYC AngelX USDT selling services.
+                 
 
                 </p>
                 <h2>What is Satta King?</h2>
